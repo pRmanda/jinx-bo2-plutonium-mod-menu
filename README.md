@@ -2,7 +2,7 @@
 
 **By Jinx | v0.6.20 | Private matches and local practice**
 
-A customizable GSC mod menu for Call of Duty: Black Ops II Multiplayer on Plutonium T6. Features a black-and-red interface, smooth selection, remembered navigation, keyboard/controller action-based controls, and an automatic Crazy Vision effect while the menu is open.
+A customizable GSC mod menu for Call of Duty: Black Ops II Multiplayer on Plutonium T6. Features a blue-and-black interface, smooth selection, remembered navigation, keyboard/controller action-based controls, and an automatic Crazy Vision effect while the menu is open.
 
 ## Requirements
 
